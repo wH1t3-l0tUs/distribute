@@ -1,0 +1,19 @@
+
+.container{
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+}
+  
+.App {
+    text-align: center;
+    background-color: rgba(102,102,195,0.1);
+}
+
+
+.content{
+
+    margin: 90px 5px 10px 10px;
+    flex-grow: 1;
+    width: 65%;
+}
