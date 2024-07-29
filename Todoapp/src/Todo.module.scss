@@ -1,0 +1,21 @@
+.container{
+    display: block;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+
+}
+
+.text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    font-weight: bolder;
+} 
+.input{
+    display:flex;
+    font-size: 1rem;
+}
