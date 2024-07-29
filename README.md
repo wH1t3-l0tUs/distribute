@@ -21,6 +21,7 @@ React Router: Là một thư viện bổ trợ giúp quản lý điều hướng
 Redux: Redux là một thư viện quản lý trạng thái cho các ứng dụng React, giúp quản lý và đồng bộ hóa trạng thái toàn cục của ứng dụng.
 
 Context API: Context API cho phép chia sẻ dữ liệu giữa các thành phần mà không cần truyền props qua từng cấp của cây thành phần.
+
 Sự khác nhau giữa function component và class component :
 --- Function compoennt: Sử dụng được các hook có sẵn hoặc hook tự tạo để quản lí trạng thái và các sự thay đổi trong quá trình thực thi truyền và nhận parameter thông qua prop giữa các component khác nhau, cú pháp đơn giản hơn và được sử dụng nhiều
 hơn ở các phiên bản mới. Sử dụng hook để quản lí LifeCycle.
